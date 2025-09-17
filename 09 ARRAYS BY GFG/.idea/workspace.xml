@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a0be0fa-e0d1-4024-b61f-3996baeb91e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_13_ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkGithub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/09 ARRAYS BY GFG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_13_ReverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_14_RotateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desktop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 VARIABLES/JavaBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 VARIABLES/JavaBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 VARIABLES/PrintPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 VARIABLES/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 VARIABLES/areaofcircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 VARIABLES/input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 VARIABLES/swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 VARIABLES/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02 OPERATORS/ARTHEMATIC/arthematic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02 OPERATORS/ARTHEMATIC/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02 OPERATORS/UNARY/unary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/1_IF-ELSE/Largerof.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/1_IF-ELSE/else_if.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/1_IF-ELSE/even_odd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/1_IF-ELSE/incometax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/1_IF-ELSE/three_no.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/2_TERNARY/even.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/2_TERNARY/pass_fail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/2_TERNARY/ternary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/3_SWITCH/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/3_SWITCH/switchs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/01_WHILE/factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/01_WHILE/num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/01_WHILE/one_n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/01_WHILE/one_ten.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/01_WHILE/sum_natural.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/01_WHILE/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/01_WHILE/whiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/02_FOR LOOP/for_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/02_FOR LOOP/prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/02_FOR LOOP/reverse_num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/02_FOR LOOP/square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/03_DO WHILE/do_while.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/04_BREAK STATEMENT/breaks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/04_BREAK STATEMENT/if_ten_break.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 LOOPS/05_CONTINUE STATEMENT/continues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05 PATTERNS/half_pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05 PATTERNS/inverted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05 PATTERNS/number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05 PATTERNS/star.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_01_basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_02_parameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_04_factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_05_binomial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_05_binomials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_06_prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_07_allprimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_07_countPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_08_binTOdec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_09_decTObin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 FUNCTION/_3_product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07 OVERLOADING/_01_basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07 OVERLOADING/_02_datatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_01_create.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_02_in_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_03_run_output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_04_lenear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_04_lenear_f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_05_largest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_06_lowest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_07_binarysearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_08_reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_09_pairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_10_subarrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_11_maxsubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 ARRAYS BY ALPHA/_11_subarraysum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_arraybuildinsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/_02_arraybuildinsort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_secondlargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/_10_secondlargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_11_twosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/_11_twosum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_14_RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/_14_RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/ARRAY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_01_PassingArrayToMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_01_PassingArrayToMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_02_arraybuildinsort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_02_arraybuildinsort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_03_MaximumInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_03_MaximumInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_04_MinimumInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_04_MinimumInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_05_sumofarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_05_sumofarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_06_shallowcopydeepcopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_06_shallowcopydeepcopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_07_maximizes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_07_maximizes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_08_EvenAndOdd_Index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_08_EvenAndOdd_Index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_09_SearchInarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_09_SearchInarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_10_secondlargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_10_secondlargest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_11_twosum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_11_twosum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ARRAY/_12_ForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_12_ForEachLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/01_VARIABLE/avarage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/01_VARIABLE/sideofsquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/01_VARIABLE/totalcost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/01_VARIABLE/typeconversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/02_OPERATORS/predect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/02_OPERATORS/predict2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/03_CONDITONS/Positive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/03_CONDITONS/fever.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/03_CONDITONS/leap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/04_LOOPS/factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/04_LOOPS/how_many.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/04_LOOPS/read_sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/04_LOOPS/table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_01_rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_02_inverted_halfpyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_03_halfpyramid_num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_04_floyds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_10_number_pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_11_PALINDROMIC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_5_triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_6_butterfly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_7_rhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_8_hallow_rhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/05_PATTERNS/_9_diamond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/06_FUNCTION/_01_avarage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/06_FUNCTION/_02_even_odd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUESTIONS/06_FUNCTION/_03_palindrome.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="32pmryos2flnUZo9R0jto5cmhuJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application._10_secondlargest.executor": "Run",
+    "Application._14_RotateArray.executor": "Run",
+    "Application.checkGithub.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a0be0fa-e0d1-4024-b61f-3996baeb91e1" name="Changes" comment="" />
+      <created>1758126091633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758126091633</updated>
+    </task>
+    <servers />
+  </component>
+</project>
