@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0be0fa-e0d1-4024-b61f-3996baeb91e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_15_MissingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_16_OneAndZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_OneAndZeroTwoPhase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/checkGithub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_16_OneAndZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/_16_OneAndZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_16_OneAndZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_16_OneAndZero.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
     "Application._14_RotateArray.executor": "Run",
     "Application._15_MissingArray.executor": "Run",
     "Application._16_OneAndZero.executor": "Run",
+    "Application._17_OneAndZeroTwoPhase.executor": "Run",
     "Application.checkGithub.executor": "Run",
     "Application.zeroAndOne.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
