@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0be0fa-e0d1-4024-b61f-3996baeb91e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../10 ARRAY LIST/.idea/10 ARRAY LIST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10 ARRAY LIST/_01_arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10 ArrayList By gfg/10 ArrayList By gfg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10 ArrayList By gfg/src/_01_ArrayListJavaBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10 ArrayList By gfg/src/_02_ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/2_TERNARY/even.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03 CONDITIONAL STATEMENT/2_TERNARY/even.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_19_MergeTwoSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_20_AddiningOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_18_WaveArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/_18_WaveArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_18_WaveArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_18_WaveArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +49,8 @@
     "Application._16_OneAndZero.executor": "Run",
     "Application._17_OneAndZeroTwoPhase.executor": "Run",
     "Application._18_WaveArray.executor": "Run",
+    "Application._19_MergeTwoSorted.executor": "Run",
+    "Application._20_AddiningOne.executor": "Run",
     "Application.checkGithub.executor": "Run",
     "Application.zeroAndOne.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -65,7 +62,21 @@
     "onboarding.tips.debug.path": "C:/Users/qaani/OneDrive/Desktop/JAVA/10 ArrayList By gfg/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application._20_AddiningOne">
+    <configuration name="_19_MergeTwoSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_19_MergeTwoSorted" />
+      <module name="09 ARRAYS BY GFG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_20_AddiningOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_20_AddiningOne" />
+      <module name="09 ARRAYS BY GFG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="09 ARRAYS BY GFG" />
       <method v="2">
@@ -77,6 +88,12 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._20_AddiningOne" />
+        <item itemvalue="Application._19_MergeTwoSorted" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
