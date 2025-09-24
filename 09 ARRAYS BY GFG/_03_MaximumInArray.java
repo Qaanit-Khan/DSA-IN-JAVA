@@ -12,7 +12,7 @@ public class _03_MaximumInArray {
 
         System.out.print("Enter the elements of arrays : ");
 
-        for(int i=0;i<arr.length;i++){
+        for(int i=0;i<n;i++){
             arr[i] = sc.nextInt();
             sum = sum + arr[i];
             if(max < arr[i]){

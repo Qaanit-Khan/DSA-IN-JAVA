@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/09 ARRAYS BY GFG.iml" filepath="$PROJECT_DIR$/09 ARRAYS BY GFG.iml" />
       <module fileurl="file://$PROJECT_DIR$/../10 ArrayList By gfg/10 ArrayList By gfg.iml" filepath="$PROJECT_DIR$/../10 ArrayList By gfg/10 ArrayList By gfg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10 Basic Sorting/10 Basic Sorting.iml" filepath="$PROJECT_DIR$/../10 Basic Sorting/10 Basic Sorting.iml" />
     </modules>
   </component>
 </project>

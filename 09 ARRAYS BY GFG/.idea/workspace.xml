@@ -5,11 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0be0fa-e0d1-4024-b61f-3996baeb91e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_19_MergeTwoSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_20_AddiningOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_21_MergeArrayBackside.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_22_MergeThreeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10 Basic Sorting/10 Basic Sorting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_MaximumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/_03_MaximumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_AddiningOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/_20_AddiningOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_03_MaximumInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_03_MaximumInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_20_AddiningOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09 ARRAYS BY GFG/_20_AddiningOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ARRAY LIST/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ARRAY LIST/.idea/10 ARRAY LIST.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ARRAY LIST/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ARRAY LIST/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ARRAY LIST/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ARRAY LIST/_01_arraylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ArrayList By gfg/10 ArrayList By gfg.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ArrayList By gfg/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ArrayList By gfg/src/_01_ArrayListJavaBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 ArrayList By gfg/src/_02_ReverseArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,31 +53,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayListJavaBasic.executor": "Run",
-    "Application._01_ArrayListJavaBasic.executor": "Run",
-    "Application._02_ReverseArray.executor": "Run",
-    "Application._10_secondlargest.executor": "Run",
-    "Application._14_RotateArray.executor": "Run",
-    "Application._15_MissingArray.executor": "Run",
-    "Application._16_OneAndZero.executor": "Run",
-    "Application._17_OneAndZeroTwoPhase.executor": "Run",
-    "Application._18_WaveArray.executor": "Run",
-    "Application._19_MergeTwoSorted.executor": "Run",
-    "Application._20_AddiningOne.executor": "Run",
-    "Application.checkGithub.executor": "Run",
-    "Application.zeroAndOne.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/qaani/OneDrive/Desktop/JAVA/10 ArrayList By gfg/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayListJavaBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeArrayBackside.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_ArrayListJavaBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_MaximumInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10_secondlargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application._14_RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application._15_MissingArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application._16_OneAndZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application._17_OneAndZeroTwoPhase.executor&quot;: &quot;Run&quot;,
+    &quot;Application._18_WaveArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application._19_MergeTwoSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application._20_AddiningOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application._21_MergeArrayBackside.executor&quot;: &quot;Run&quot;,
+    &quot;Application._22_MergeThreeSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.checkGithub.executor&quot;: &quot;Run&quot;,
+    &quot;Application.zeroAndOne.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/qaani/OneDrive/Desktop/JAVA/10 Basic Sorting/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application._20_AddiningOne">
+}</component>
+  <component name="RunManager" selected="Application._03_MaximumInArray">
+    <configuration name="_03_MaximumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_MaximumInArray" />
+      <module name="09 ARRAYS BY GFG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_19_MergeTwoSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_19_MergeTwoSorted" />
       <module name="09 ARRAYS BY GFG" />
@@ -72,6 +98,20 @@
     </configuration>
     <configuration name="_20_AddiningOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_20_AddiningOne" />
+      <module name="09 ARRAYS BY GFG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_21_MergeArrayBackside" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_21_MergeArrayBackside" />
+      <module name="09 ARRAYS BY GFG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_22_MergeThreeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_22_MergeThreeSortedArray" />
       <module name="09 ARRAYS BY GFG" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,6 +130,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._03_MaximumInArray" />
+        <item itemvalue="Application._22_MergeThreeSortedArray" />
+        <item itemvalue="Application._21_MergeArrayBackside" />
         <item itemvalue="Application._20_AddiningOne" />
         <item itemvalue="Application._19_MergeTwoSorted" />
       </list>
@@ -112,6 +155,11 @@
           <url>file://$PROJECT_DIR$/../10 ArrayList By gfg/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../10 Basic Sorting/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
