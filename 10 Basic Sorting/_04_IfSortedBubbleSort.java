@@ -6,7 +6,7 @@ public class _04_IfSortedBubbleSort {
         System.out.println("");
     }
     public static void main(String[] args) {
-        int[] arr = {1,2,3,4};
+        int[] arr = {1,2,-1,3,4};
         int n = arr.length;
         print(arr);
         boolean isSorted = true;
