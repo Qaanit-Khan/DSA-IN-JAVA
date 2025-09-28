@@ -8,7 +8,7 @@ public class prime{
         return true;
     }
     public static void main(String args[]){
-        int n = 7;
+        int n = 1;
         if(Prime_n(n) == false){
             System.out.print("Not Prime");
         }
