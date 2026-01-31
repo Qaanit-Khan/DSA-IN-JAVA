@@ -4,7 +4,7 @@ public class do_while{
         do{
             System.out.println("HELLO! Qaanit");
             counter++;
-        }while(counter<=3);
+        }while(false);
             
         
     }

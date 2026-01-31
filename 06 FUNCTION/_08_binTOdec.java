@@ -12,6 +12,6 @@ public class _08_binTOdec{
         return store;
     }
     public static void main(String args[]){
-        System.out.print(BitoDec(1001));
+        System.out.print(BitoDec(101));
     }
 }

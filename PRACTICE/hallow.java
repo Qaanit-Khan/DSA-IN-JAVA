@@ -16,6 +16,6 @@ public class hallow{
         }
     }
     public static void main(String args[]){
-        rect(5);
+        rect();
     }
 }

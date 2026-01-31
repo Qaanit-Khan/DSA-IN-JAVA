@@ -8,9 +8,10 @@ public class reverse_num{
 
         System.out.print("The reverse number : ");
         while(n>0){
-            int last_digit = n%10;
-            System.out.print(""+last_digit);
+            int last_digit = n % 10;
+            System.out.print(last_digit);
             n = n/10;
         }
+
     }
 }
