@@ -7,7 +7,6 @@ public class vowels {
             char z = s.charAt(i);
             if(z == 'a' || z == 'e' || z == 'i' || z == 'o' || z == 'u'){
                 ans++;
-                king.charAt(i) = s.charAt(i);
             }
         }
         System.out.println(ans);

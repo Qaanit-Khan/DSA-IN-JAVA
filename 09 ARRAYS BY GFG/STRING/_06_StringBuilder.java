@@ -8,6 +8,12 @@ public class _06_StringBuilder {
 
         StringBuilder str = new StringBuilder();
         str.append("Qaanit Khan");
-        System.out.println(str.capacity() +" "+str.length());
+        String a = "Khan";
+        StringBuilder kk = new StringBuilder(a);
+        if(" "==" "){
+            System.out.println(true);
+        }
+
+        
     }
 }

@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e4ac874-73d5-465a-babf-d6c16d523079" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 VARIABLES/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/01 VARIABLES/_01_Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 VARIABLES/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/01 VARIABLES/input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 VARIABLES/swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/01 VARIABLES/swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 OPERATORS/03 CONDITIONAL STATEMENT/2_TERNARY/even.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 OPERATORS/03 CONDITIONAL STATEMENT/2_TERNARY/even.java" beforeDir="false" afterPath="$PROJECT_DIR$/02 OPERATORS/ARTHEMATIC/even.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 OPERATORS/ARTHEMATIC/arthematic.java" beforeDir="false" afterPath="$PROJECT_DIR$/02 OPERATORS/ARTHEMATIC/arthematic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 LOOPS/01_WHILE/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/04 LOOPS/01_WHILE/factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 LOOPS/02_FOR LOOP/for_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/04 LOOPS/02_FOR LOOP/for_loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 LOOPS/02_FOR LOOP/prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 LOOPS/02_FOR LOOP/reverse_num.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 LOOPS/02_FOR LOOP/reverse_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/04 LOOPS/02_FOR LOOP/reverse_num.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 LOOPS/02_FOR LOOP/square.java" beforeDir="false" afterPath="$PROJECT_DIR$/04 LOOPS/02_FOR LOOP/square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 LOOPS/03_DO WHILE/do_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/04 LOOPS/03_DO WHILE/do_while.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 PATTERNS/half_pyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 PATTERNS/half_pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/05 PATTERNS/half_pyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 PATTERNS/inverted.java" beforeDir="false" afterPath="$PROJECT_DIR$/05 PATTERNS/inverted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 PATTERNS/number.java" beforeDir="false" afterPath="$PROJECT_DIR$/05 PATTERNS/number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 FUNCTION/_03_product.java" beforeDir="false" afterPath="$PROJECT_DIR$/06 FUNCTION/_03_product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 FUNCTION/_04_factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/06 FUNCTION/_04_factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 FUNCTION/_07_countPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 FUNCTION/_07_countPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/06 FUNCTION/_07_countPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 FUNCTION/_08_binTOdec.java" beforeDir="false" afterPath="$PROJECT_DIR$/06 FUNCTION/_08_binTOdec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_02_arraybuildinsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_02_arraybuildinsort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_03_MaximumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_03_MaximumInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_04_MinimumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_04_MinimumInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_08_EvenAndOdd_Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_08_EvenAndOdd_Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_09_SearchInarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_09_SearchInarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_10_secondlargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_10_secondlargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_13_ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_13_ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_14_RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_14_RotateArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_14_RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_14_RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_15_MissingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_15_MissingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_16_OneAndZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 ARRAYS BY GFG/_16_OneAndZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/_19_MergeTwoSorted.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/replay_pid24612.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 ARRAYS BY GFG/tempCodeRunnerFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 BINARY SEARCH/_02_BubbleSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 BINARY SEARCH/_02_BubbleSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 BINARY SEARCH/_03_BubbleSort_removeLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 BINARY SEARCH/_03_BubbleSort_removeLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 BINARY SEARCH/_05_UsingAdding.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 BINARY SEARCH/_05_UsingAdding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 BINARY SEARCH/_06_DecendingBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 BINARY SEARCH/_06_DecendingBubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 BINARY SEARCH/_07_Move_All_Zeroes_to_End.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 BINARY SEARCH/_07_Move_All_Zeroes_to_End.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 BINARY SEARCH/_09_SelectionDecSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 BINARY SEARCH/_09_SelectionDecSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 BINARY SEARCH/_12_Insertion_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 BINARY SEARCH/_12_Insertion_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 BINARY SEARCH/_18_MountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 BINARY SEARCH/_18_MountainArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Basic Sorting/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRACTICE/hallow.java" beforeDir="false" afterPath="$PROJECT_DIR$/PRACTICE/hallow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRACTICE/news.java" beforeDir="false" afterPath="$PROJECT_DIR$/PRACTICE/news.java" afterDir="false" />
-    </list>
+    <list default="true" id="3e4ac874-73d5-465a-babf-d6c16d523079" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

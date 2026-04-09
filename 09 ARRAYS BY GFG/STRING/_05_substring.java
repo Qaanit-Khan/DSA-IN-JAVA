@@ -6,5 +6,6 @@ public class _05_substring {
             System.out.println(n1.substring(i, j+1));
         }
         }
+        System.out.println('l'-'a');
     }
 }

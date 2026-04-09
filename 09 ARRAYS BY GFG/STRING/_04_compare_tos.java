@@ -14,6 +14,12 @@ public class _04_compare_tos {
     public static void main(String[] args) {
         String n1 = "llaan";
         String n2 = "Qaanit";
+        int id = 'c' - 'a';
+        System.out.println(id);
+        char[] arr = n1.toCharArray(); 
+        for(char ele : arr){
+            System.out.print(ele+" ");
+        }
         System.out.println(compare_to(n1, n2)); 
 
     }
